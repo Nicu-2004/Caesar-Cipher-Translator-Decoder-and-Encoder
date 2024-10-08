@@ -1,0 +1,2 @@
+The caesarLock program Encodes/Decodes a given phrase (according to the Caesar's Cipher). The Encoded message gets saved in the "note.txt" file and the Decoded message gets saved in "note2.txt" file. 
+At the begging u can choose option 1 (to encode the message) or option 2 (to decode it). If you choose option 1 u will be asked how many times do you want the message to be encoded and if you choose option 2 the message will be decoded one step at a time until you recognize the meaning of the message (press 1) otherwise press 0 to continue the decoding.
